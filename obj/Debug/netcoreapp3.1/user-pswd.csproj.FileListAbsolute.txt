@@ -1,0 +1,13 @@
+C:\source\codeworks\user-pswd\bin\Debug\netcoreapp3.1\user-pswd.exe
+C:\source\codeworks\user-pswd\bin\Debug\netcoreapp3.1\user-pswd.deps.json
+C:\source\codeworks\user-pswd\bin\Debug\netcoreapp3.1\user-pswd.runtimeconfig.json
+C:\source\codeworks\user-pswd\bin\Debug\netcoreapp3.1\user-pswd.runtimeconfig.dev.json
+C:\source\codeworks\user-pswd\bin\Debug\netcoreapp3.1\user-pswd.dll
+C:\source\codeworks\user-pswd\bin\Debug\netcoreapp3.1\user-pswd.pdb
+C:\source\codeworks\user-pswd\obj\Debug\netcoreapp3.1\user-pswd.csprojAssemblyReference.cache
+C:\source\codeworks\user-pswd\obj\Debug\netcoreapp3.1\user-pswd.csproj.CoreCompileInputs.cache
+C:\source\codeworks\user-pswd\obj\Debug\netcoreapp3.1\user-pswd.AssemblyInfoInputs.cache
+C:\source\codeworks\user-pswd\obj\Debug\netcoreapp3.1\user-pswd.AssemblyInfo.cs
+C:\source\codeworks\user-pswd\obj\Debug\netcoreapp3.1\user-pswd.dll
+C:\source\codeworks\user-pswd\obj\Debug\netcoreapp3.1\user-pswd.pdb
+C:\source\codeworks\user-pswd\obj\Debug\netcoreapp3.1\user-pswd.genruntimeconfig.cache
